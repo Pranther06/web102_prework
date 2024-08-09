@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/sea-monster-crowdfunding-site-3Of252h' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/Pranther06/web102_prework/blob/main/SeaMonsterCrowdfunding.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
